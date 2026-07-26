@@ -43,12 +43,12 @@ FOLDERS = {
 
 appss=["calculator","notepad"]
 
-client = genai.Client(api_key="AQ.Ab8RN6J2i-PBLIKA83o7499FT14PAGq4p-knGmUG2UTHuXi_FA")
+client = genai.Client(api_key="AQ.Ab8RN6J2i--knGmUG2UTHuXi_FA")
 # -----------------------------
 # Function: Speak
 # -----------------------------
-EMAIL = "prasadcloud997@gmail.com"
-APP_PASSWORD = "uyws dwra jicm yhaf"
+EMAIL = "prasadcloud9@gmail.com"
+APP_PASSWORD = "uyws jicm yhaf"
 contacts = {
     
     "hello": "+91xxxxxxxxxx",
